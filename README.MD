@@ -33,7 +33,7 @@ It makes it easier to locate icons
 ### How to use:
 
 ```
-$ ./main.py /path/to/icons
+$ ./sort-icons.py /path/to/icons
 ```
 
 You will find the icons in ```sorted``` folder in ```/path/to/icons/```
